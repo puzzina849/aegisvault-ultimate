@@ -1,0 +1,8 @@
+# Database e chiavi personali (NON DEVONO MAI FINIRE SU GITHUB)
+*.aegis
+*.key
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
